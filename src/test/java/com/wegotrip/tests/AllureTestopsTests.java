@@ -1,4 +1,4 @@
-package com.wegotrip.specs.tests;
+package com.wegotrip.tests;
 
 import com.codeborne.selenide.CollectionCondition;
 import com.codeborne.selenide.ElementsCollection;

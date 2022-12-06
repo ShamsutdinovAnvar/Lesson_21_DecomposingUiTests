@@ -7,7 +7,7 @@ import io.restassured.specification.RequestSpecification;
 
 import static com.wegotrip.api.AuthorizationApi.ALLURE_TESTOPS_SESSION;
 import static com.wegotrip.helpers.CustomApiListener.withCustomTemplates;
-import static com.wegotrip.specs.tests.BaseTest.credentialsConfig;
+import static com.wegotrip.tests.BaseTest.credentialsConfig;
 
 public class LoginSpecs {
 

@@ -1,4 +1,4 @@
-package com.wegotrip.specs.tests;
+package com.wegotrip.tests;
 
 import com.codeborne.selenide.logevents.SelenideLogger;
 import com.wegotrip.config.CredentialsConfig;
